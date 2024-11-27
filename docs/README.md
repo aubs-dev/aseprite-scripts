@@ -1,4 +1,4 @@
-# Aubrey's Aseprite Scripts & Extension
+# Aubrey's Aseprite Scripts & Extensions
 > [!NOTE]
 > Download scripts from the release menu!
 
