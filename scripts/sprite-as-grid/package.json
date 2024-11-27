@@ -1,0 +1,30 @@
+{
+  "name": "sprite-as-grid",
+  "displayName": "Sprite As Grid",
+  "description": "Automatically crops every sub-sprite in a customizable grid, then saves it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aubrey Dominik",
+    "email": "hello@aubs.dev",
+    "url": "https://aubs.dev"
+  },
+  "contributors": [],
+  "publisher": "aubs-dev",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./extension.lua"
+      }
+    ],
+    "keys": [
+      {
+        "id": "sprite-as-grid-keys",
+        "path": "./extension-keys.aseprite-keys"
+      }
+    ]
+  }
+}
